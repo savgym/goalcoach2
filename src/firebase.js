@@ -3,6 +3,7 @@ import 'firebase/auth';
 import 'firebase/database' ;    // for authentication
 
 console.log('process.env',process.env);
+
 const config = {
   apiKey: process.env.REACT_APP_API_KEY,
   authDomain: "goalcoach-ef72e.firebaseapp.com",
