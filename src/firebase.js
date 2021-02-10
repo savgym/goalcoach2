@@ -1,11 +1,10 @@
 import firebase from 'firebase/app';
 import 'firebase/auth';   
 import 'firebase/database' ;    // for authentication
-require('dotenv').config()
 
-
+console.log('process.env',process.env);
 const config = {
-  apiKey: 'AIzaSyBedTiiKoV87anWmvr29tKzfTg2hvQgquE',
+  apiKey: process.env.REACT_APP_API_KEY,
   authDomain: "goalcoach-ef72e.firebaseapp.com",
   databaseURL:"https://goalcoach-ef72e-default-rtdb.europe-west1.firebasedatabase.app/",
   projectId: "goalcoach-ef72e",
