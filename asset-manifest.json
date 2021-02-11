@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/goalcoach2/static/js/main.d1ac0cd0.chunk.js",
+    "main.js.map": "/goalcoach2/static/js/main.d1ac0cd0.chunk.js.map",
+    "runtime-main.js": "/goalcoach2/static/js/runtime-main.5201df4f.js",
+    "runtime-main.js.map": "/goalcoach2/static/js/runtime-main.5201df4f.js.map",
+    "static/js/2.fa0cc0f6.chunk.js": "/goalcoach2/static/js/2.fa0cc0f6.chunk.js",
+    "static/js/2.fa0cc0f6.chunk.js.map": "/goalcoach2/static/js/2.fa0cc0f6.chunk.js.map",
+    "index.html": "/goalcoach2/index.html",
+    "static/js/2.fa0cc0f6.chunk.js.LICENSE.txt": "/goalcoach2/static/js/2.fa0cc0f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5201df4f.js",
+    "static/js/2.fa0cc0f6.chunk.js",
+    "static/js/main.d1ac0cd0.chunk.js"
+  ]
+}
